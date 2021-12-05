@@ -93,14 +93,4 @@
 
 ![UI1](README.assets/UI1.png)
 
-![UI2](README.assets/UI2.png)  
-
-</br>
-
-## 😘 프로젝트 마무리 소감
-
-- **정우철** : 
-- **장영하** :
-- **정동균** :
-- **최강현** :
-- **김홍중** :
+![UI2](README.assets/UI2.png)
